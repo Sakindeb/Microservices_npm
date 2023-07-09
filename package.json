@@ -1,6 +1,7 @@
 {
-	"author": "Sakin Deborah",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Sakin Deborah",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
